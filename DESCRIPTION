@@ -1,0 +1,15 @@
+Package: Balanceitall
+Type: Package
+Title: Solves the problem of classification on imbalanced datasets
+Version: 0.1.0
+Author: Shubham Goyal
+Maintainer: Shubham Goyal <goyal.shubham15@gmail.com>
+Description: For class imbalaced classification this package can be used. This package consists of three models which help to achieve that.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports: 
+  caret,xgboost,dplyr,ROCR,unbalanced,ebmc
+Suggestions: 
+  dummies
+RoxygenNote: 6.0.1
